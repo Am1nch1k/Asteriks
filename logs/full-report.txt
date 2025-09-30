@@ -1,0 +1,8 @@
+=== FULL IVR TEST REPORT ===
+SIP Messages:       41
+RTP Packets:     1959
+Tested Features:
+- Main menu (777)
+- Option 1 (smile message)
+- Option 2 (submenu + digit press)
+- Option 3 (voice recording)

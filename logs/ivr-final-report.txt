@@ -1,0 +1,30 @@
+==========================================
+           IVR SYSTEM TEST REPORT         
+==========================================
+
+📞 TELEPHONY PROOF:
+SIP Messages:       41
+RTP Packets:     1959
+Tested Features:
+- Main menu (777)
+- Option 1 (smile message)
+- Option 2 (submenu + digit press)
+- Option 3 (voice recording)
+
+🎵 SOUND FILES:
+Found sound files: 4
+
+🔊 RECORDINGS:
+total 4
+drwxr-xr-x 2 root     root       64 Sep 30 07:32 .
+drwxr-xr-x 1 asterisk asterisk 4096 Sep 30 11:20 ..
+total 4
+drwxr-xr-x 2 root     root       64 Sep 30 07:32 .
+drwxr-xr-x 1 asterisk asterisk 4096 Sep 30 11:22 ..
+
+✅ SYSTEM STATUS:
+ Endpoint:  <Endpoint/CID.....................................>  <State.....>  <Channels.>
+      Contact:  <Aor/ContactUri..........................> <Hash....> <Status> <RTT(ms)..>
+   Identify:  <Identify/Endpoint.........................................................>
+    Channel:  <ChannelId......................................>  <State.....>  <Time.....>
+ Endpoint:  1000                                                 Not in use    0 of inf

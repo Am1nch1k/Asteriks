@@ -1,0 +1,22 @@
+Unable to open specified master config file '/etc/asterisk/asterisk.conf', using built-in defaults
+
+ Endpoint:  <Endpoint/CID.....................................>  <State.....>  <Channels.>
+    I/OAuth:  <AuthId/UserName...........................................................>
+        Aor:  <Aor............................................>  <MaxContact>
+      Contact:  <Aor/ContactUri..........................> <Hash....> <Status> <RTT(ms)..>
+  Transport:  <TransportId........>  <Type>  <cos>  <tos>  <BindAddress..................>
+   Identify:  <Identify/Endpoint.........................................................>
+        Match:  <criteria.........................>
+    Channel:  <ChannelId......................................>  <State.....>  <Time.....>
+        Exten: <DialedExten...........>  CLCID: <ConnectedLineCID.......>
+==========================================================================================
+
+ Endpoint:  1000                                                 Not in use    0 of inf
+     InAuth:  auth1000/1000
+        Aor:  1000                                               1
+      Contact:  1000/sip:1000@192.168.65.1:61068;rinstance b7adce26c1 NonQual         nan
+  Transport:  transport-udp             udp      0      0  0.0.0.0:5060
+
+
+Objects found: 1
+

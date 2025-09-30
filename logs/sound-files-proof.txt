@@ -1,0 +1,4 @@
+/var/lib/asterisk/sounds/beep.ulaw
+/var/lib/asterisk/sounds/ru/ivr/main/menu.ulaw
+/var/lib/asterisk/sounds/beep.gsm
+/var/lib/asterisk/sounds/menu.ulaw

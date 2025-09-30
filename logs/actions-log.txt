@@ -1,0 +1,20 @@
+[1;30m  == [0mres_pjsip_one_touch_record_info.so => ([0;33mPJSIP INFO One Touch Recording Support[0m)
+[1;30m  == [0mRegistered channel type 'Recorder' (Bridge Media Recording Channel Driver)
+[1;30m    -- [0mExecuting [777@ivr:1] [1;36mAnswer[0m("[1;35mPJSIP/1000-00000000[0m", "[1;35m[0m") in new stack
+[1;30m    -- [0mExecuting [777@ivr:2] [1;36mPlayback[0m("[1;35mPJSIP/1000-00000000[0m", "[1;35m/var/lib/asterisk/sounds/ru/ivr/main/menu&beep[0m") in new stack
+[1;30m    -- [0m<PJSIP/1000-00000000> Playing '/var/lib/asterisk/sounds/ru/ivr/main/menu.ulaw' (language 'en')
+[1;30m    -- [0m<PJSIP/1000-00000000> Playing 'beep.gsm' (language 'en')
+[1;30m    -- [0mExecuting [777@ivr:3] [1;36mWaitExten[0m("[1;35mPJSIP/1000-00000000[0m", "[1;35m10[0m") in new stack
+[1;30m    -- [0mExecuting [777@ivr:1] [1;36mAnswer[0m("[1;35mPJSIP/1000-00000001[0m", "[1;35m[0m") in new stack
+[1;30m    -- [0mExecuting [777@ivr:2] [1;36mPlayback[0m("[1;35mPJSIP/1000-00000001[0m", "[1;35m/var/lib/asterisk/sounds/ru/ivr/main/menu&beep[0m") in new stack
+[1;30m    -- [0m<PJSIP/1000-00000001> Playing '/var/lib/asterisk/sounds/ru/ivr/main/menu.ulaw' (language 'en')
+[1;30m    -- [0m<PJSIP/1000-00000000> Playing 'vm-goodbye.gsm' (language 'en')
+[1;30m    -- [0m<PJSIP/1000-00000001> Playing 'beep.gsm' (language 'en')
+[1;30m    -- [0mExecuting [777@ivr:3] [1;36mWaitExten[0m("[1;35mPJSIP/1000-00000001[0m", "[1;35m10[0m") in new stack
+[1;30m    -- [0mExecuting [777@ivr:1] [1;36mAnswer[0m("[1;35mPJSIP/1000-00000002[0m", "[1;35m[0m") in new stack
+[1;30m    -- [0m<PJSIP/1000-00000001> Playing 'vm-goodbye.gsm' (language 'en')
+[1;30m    -- [0mExecuting [777@ivr:2] [1;36mPlayback[0m("[1;35mPJSIP/1000-00000002[0m", "[1;35m/var/lib/asterisk/sounds/ru/ivr/main/menu&beep[0m") in new stack
+[1;30m    -- [0m<PJSIP/1000-00000002> Playing '/var/lib/asterisk/sounds/ru/ivr/main/menu.ulaw' (language 'en')
+[1;30m    -- [0m<PJSIP/1000-00000002> Playing 'beep.gsm' (language 'en')
+[1;30m    -- [0mExecuting [777@ivr:3] [1;36mWaitExten[0m("[1;35mPJSIP/1000-00000002[0m", "[1;35m10[0m") in new stack
+[1;30m    -- [0m<PJSIP/1000-00000002> Playing 'vm-goodbye.gsm' (language 'en')
