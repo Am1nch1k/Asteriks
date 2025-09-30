@@ -1,0 +1,28 @@
+# Personal data and logs
+*.log
+*.dump
+*.txt
+*.pcap
+*.wav
+*.call
+
+# Docker volumes
+demo/tele-conf/
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment files with sensitive data
+.env
+.env.local
